@@ -40,14 +40,17 @@ You can do anything you want with the NotePad, it has every function that ordina
 After running the code, you will see the following window. From there you will be able to explore the application. 
 ![](Images/first.png)
 ***
-You can work in **dark mode!**
 ![](Images/night_on.png)
+You can work in **dark mode!**
+
 ***
-You see the window responsible for the text's font, size and style.
 ![](Images/font.png)
+You see the window responsible for the text's font, size and style.
+
 ***
-Finally the demonstration. 
 ![](Images/demonstration.png)
+Finally the demonstration. 
+
 
 
 
