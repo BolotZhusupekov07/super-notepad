@@ -3,7 +3,7 @@ TextEditor with SpeechRecognition with **Text to Speech**, **Speech to Text**, a
 
 ### Done by
 
-Bolot Zhusupekov
+Bolot Zhusupekov \n
 Kalmyrza Zholchubekov
 
 ## Setup
