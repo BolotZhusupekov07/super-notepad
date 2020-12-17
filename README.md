@@ -7,16 +7,16 @@ Kalmyrza Zholchubekov
 
 ## Setup
 First install all necessary modules,
-```
+```python
 pip install tkinter 
-***
+
 pip install gtts # a Python library and CLI tool to interface with Google Translate text-to-speech API.
-***
+
 pip install os #  a module in python that provides functions for interacting with the operating system.
-***
+
 pip install textblob # a library for processing textual data.
-***
-pip install SpeechRecognition # Library for performing speech recognition, with support for several engines and APIs, online and offline.
+
+pip install SpeechRecognition # Library for performing speech recognition, online and offline.
 
 ```
 #### If you have problem with installing SpeechRecognition module. Run below commands on the terminal. 
