@@ -35,10 +35,18 @@ pip install SpeechRecognition
 
 ## Usage 
 
-You can do anything you want with the NotePad, it has every function that ordinary NotePads has and more...
+You can do anything you want with the NotePad, it has every function that ordinary NotePads have and more...
 ***
-You will see the following window, from there you will be able to explore the application. 
-![](images/2020-12-16_17-04-57.png)
+After running the code, you will see the following window. From there you will be able to explore the application. 
+![](Images/first.png)
+You can work in **dark mode!**
+![](Images/night-on.png)
+This is where you can find the new features! 
+On the left you see the window responsible for the text's font, size and style.
+![](Images/features.png) ![](Images/font.png)
+Finally the demonstration. 
+![](Images/demonstration.png)
+
 
 
 
