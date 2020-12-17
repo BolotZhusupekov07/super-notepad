@@ -3,7 +3,7 @@ TextEditor with SpeechRecognition with **Text to Speech**, **Speech to Text**, a
 
 ### Done by
 
-Bolot Zhusupekov \n
+Bolot Zhusupekov \
 Kalmyrza Zholchubekov
 
 ## Setup
@@ -41,16 +41,15 @@ You can do anything you want with the NotePad, it has every function that ordina
 After running the code, you will see the following window. From there you will be able to explore the application. 
 ![](Images/first.png)
 ***
-![](Images/night_on.png)
+![](Images/night_on.png)\
 You can work in **dark mode!**
 
 ***
-![](Images/font.png)
-'\n'
+![](Images/font.png)\
 You see the window responsible for the text's font, size and style.
 
 ***
-![](Images/demonstration.png)
+![](Images/demonstration.png)\
 Finally the demonstration. 
 
 
