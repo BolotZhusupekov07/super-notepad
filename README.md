@@ -2,7 +2,7 @@
 TextEditor with SpeechRecognition with ***Text to Speech***, ***Speech to Text***, and ***Spell Check*** features.  
 
 ### Done by
-:::
+::: warning
 *Bolot Zhusupekov
 Kalmyrza Zholchubekov*
 :::
