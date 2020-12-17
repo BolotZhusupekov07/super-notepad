@@ -1,27 +1,34 @@
-# super-notepad
-TextEditor program with SpeechRecognition, Text to Speech\
-and other features
+# Description
+TextEditor with SpeechRecognition with ***Text to Speech***, ***Speech to Text***, and ***Spell Check*** features.  
 
 ## Done by
 Bolot Zhusupekov\
 Kalmyrza Zholchubekov
 
-## Installation
+## Setup
+First install all necessary modules,
+```
+pip install tkinter 
+***
+pip install gtts # a Python library and CLI tool to interface with Google Translate text-to-speech API.
+***
+pip install os #  a module in python that provides functions for interacting with the operating system.
+***
+pip install textblob # a library for processing textual data.
+***
+pip install SpeechRecognition # Library for performing speech recognition, with support for several engines and APIs, online and offline.
 
-In the terminal use the package manager [pip](https://pip.pypa.io/en/stable/) to install modules.
+```
+#### If you have problem with installing SpeechRecognition module. Run below commands on the terminal. 
 
 ```
 pip install pipwin
-```
-```
+***
 pipwin install pyaudio
-```
-```
+***
 pip install SpeechRecognition
 ```
-```
-pip install gTTS
-```
+
 ## Usage
 
 1.Download logo and audiofile to your folder
