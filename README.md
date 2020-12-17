@@ -2,8 +2,10 @@
 TextEditor with SpeechRecognition with ***Text to Speech***, ***Speech to Text***, and ***Spell Check*** features.  
 
 ### Done by
+:::
 Bolot Zhusupekov
 Kalmyrza Zholchubekov
+:::
 
 ## Setup
 First install all necessary modules,
@@ -45,6 +47,7 @@ You can work in **dark mode!**
 
 ***
 ![](Images/font.png)
+'\n'
 You see the window responsible for the text's font, size and style.
 
 ***
