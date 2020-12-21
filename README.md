@@ -32,7 +32,7 @@ pip install SpeechRecognition
 
 #### Create the audio file where they will be saved, 
 It is important name of the file need to match the following file. 
-``T22S.wav```
+`T22S.wav`
 
 ## Usage 
 
