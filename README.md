@@ -30,9 +30,9 @@ pipwin install pyaudio
 pip install SpeechRecognition
 ```
 
-#### Download additional file
-
-[audio](T22S.wav)
+#### Create the audio file where they will be saved, 
+It is important name of the file need to match the following file. 
+``T22S.wav```
 
 ## Usage 
 
